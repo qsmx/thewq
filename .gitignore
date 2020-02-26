@@ -1,0 +1,8 @@
+.vscode
+.sw?
+
+.bak
+
+vendor/
+
+.log
